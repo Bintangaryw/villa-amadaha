@@ -8,7 +8,7 @@ function App() {
                 <div>
                     <Hero />
                 </div>
-                <div>
+                <div className="">
                     <Availability />
                 </div>
             </div>
