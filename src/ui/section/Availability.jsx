@@ -2,7 +2,7 @@ import dateIcon from "../../assets/icon/dateIcon.png";
 
 export default function Availability() {
     return (
-        <div className="w-screen flex flex-col justify-center items-center">
+        <div className="flex flex-col justify-center items-center">
             {/* Mobile */}
             <div className="w-70 flex flex-col justify-center items-center space-y-6 xl:hidden">
                 <p>Room</p>
